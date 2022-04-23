@@ -1,5 +1,5 @@
 name: LobbyCore
-version: 0.1
+version: 1.0
 main: Jos3\main
 api:
   - 4.0.0
